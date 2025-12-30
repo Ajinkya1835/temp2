@@ -1,0 +1,8 @@
+{
+  "name": "Permit Violation Management & Enforcement System (PVMS)",
+  "description": "A production-ready e-governance platform for reporting, verifying, and enforcing municipal permit violations with GIS integration and AI-assisted verification.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
